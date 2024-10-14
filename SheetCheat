@@ -1,0 +1,22 @@
+
+- Comprehensive AI/ML cheatsheet for quick reference during development
+- Covers essential concepts in Machine Learning, Deep Learning, NLP, and Generative AI
+
+**Machine Learning Fundamentals**
+
+- Types include Supervised, Unsupervised, and Reinforcement Learning
+- Key algorithms: Linear/Logistic Regression, Decision Trees, SVM, K-Means Clustering
+- Important metrics: Accuracy, Precision, Recall, F1 Score
+
+**Deep Learning Essentials**
+
+- Neural Network types: Feedforward, CNN, RNN, LSTM/GRU
+- Crucial components: Activation Functions, Loss Functions, Optimizers
+
+**Natural Language Processing (NLP)**
+
+- Key concepts: Tokenization, Stemming, TF-IDF; Models: Word2Vec, RNN/LSTM, Transformers
+
+**Generative AI**
+
+- Key models: GANs, VAEs, Transformers; Applications: Image/Text Generation, Style Transfer
